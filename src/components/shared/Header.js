@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
+   
     return (
         <>
              <Navbar bg="dark" variant="dark">
@@ -15,7 +16,16 @@ const Header = () => {
                         <Link className="linkStyle" to="/service">Service</Link>
                         <Link className="linkStyle" to="/contact">Contact</Link>
                     </Nav>
-                    <Button className="btn" variant="info">Register For Free</Button>
+                
+                    
+
+
+                           <Button className="btn" variant="warning" >LogOut</Button>
+                                 
+                                    <Link to="/login">
+                                        <Button className="btn" variant="success">Login/Register</Button>
+                                    </Link>
+                         
                 </Container>
             </Navbar>
             <br />
