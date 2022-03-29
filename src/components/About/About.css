@@ -1,0 +1,25 @@
+.header{
+    color: turquoise;
+}
+.about-info {
+    text-align: justify;
+    padding: 5px;
+}
+.about-info h3 {
+    margin-top: 50px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+}
+
+.about-img {
+    height: 400px;
+}
+
+.about-img2 {
+    height: 300px;
+}
+.story {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

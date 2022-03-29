@@ -1,0 +1,44 @@
+[
+    {
+      "key": "1",
+      "img": "https://10minuteschool.com/assets/landing-page/ssc.jpg",
+      "course": "SSC 2022 Crash Course",
+      "price": 2323,
+      "duration": "25 Hour"
+    },
+    {
+      "key": "2",
+      "img": "https://10minuteschool.com/assets/landing-page/hsc.jpg",
+      "course": "HSC 2022 Crash Course",
+      "price": 4000,
+      "duration": "55 Hour"
+    },
+    {
+      "key": "3",
+      "img": "https://10minuteschool.com/assets/landing-page/admission.jpg",
+      "course": "PRre Admission Medicasl Course",
+      "price": 5000,
+      "duration": "45 Hour"
+    },
+    {
+      "key": "4",
+      "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Spoken%20English_Landscape.jpg",
+      "course": "English Spoken Advance",
+      "price": 6000,
+      "duration": "56 Hour"
+    },
+    {
+      "key": "5",
+      "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/24%20Ghontay%20Quran_Landscape.jpg",
+      "course": "Quran learning",
+      "price": 2000,
+      "duration": "32 Hour"
+    },
+    {
+      "key": "6",
+      "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FEnglish-Grammar-Crash-Course---Title-Thumbnail.jpg",
+      "course": "Advance English Grammer Course",
+      "price": 3600,
+      "duration": "51 Hour"
+    }
+  ]
